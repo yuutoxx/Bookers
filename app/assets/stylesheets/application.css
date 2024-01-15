@@ -13,3 +13,56 @@
  *= require_tree .
  *= require_self
  */
+
+* {
+  margin: 0;
+  padding:0;
+  box-sizing: border-box;
+}
+
+body {
+  margin: 33px;
+  font-size: 13px;
+  line-height: 18px;
+}
+
+h1 {
+  margin: 17.42px 0;
+}
+
+th {
+  padding: 1px 1px 5px;
+}
+
+td {
+  margin: 33px;
+  padding: 1px 5px 7px;
+}
+
+h2 {
+  margin: 16.185px 0;
+}
+
+.field {
+  margin: 0 0 10px;
+}
+
+text_area {
+  padding: 2px;
+}
+
+input[type="text"]  {
+  padding: 1px 2px;
+}
+
+textarea {
+  padding: 2px;
+}
+
+input[type="submit"] {
+  padding: 1px 6px;
+}
+
+.action {
+  margin: 0 0 10px;
+}
