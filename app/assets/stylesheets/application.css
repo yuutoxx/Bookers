@@ -30,6 +30,10 @@ h1 {
   margin: 17.42px 0;
 }
 
+p {
+  margin: 33px;
+}
+
 th {
   padding: 1px 1px 5px;
 }
@@ -41,6 +45,10 @@ td {
 
 h2 {
   margin: 16.185px 0;
+}
+
+label {
+  display: block;
 }
 
 .field {
